@@ -1,4 +1,3 @@
-![Screenshot_20241230-161906 1](https://github.com/user-attachments/assets/c306ed95-77d7-4a4f-bc97-e84e8cc5db0c)
 # travel_app1
 
 A new Flutter project.
