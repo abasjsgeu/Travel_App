@@ -6,6 +6,8 @@ A new Flutter project.
 ## Getting Started
 
 I used GETX AND SUPBASE
+Receive notifications whenever something changes in the database.
+
 
 For help getting started with Flutter development, view the
 
